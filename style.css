@@ -1,0 +1,39 @@
+
+h1{
+    
+}
+
+body{
+    color: white;
+    background-color: gray;
+    height: 100vh;
+}
+.container{
+    width: 60%;
+    height: auto;
+    background-color: black;
+    margin:0 auto;
+    border-radius: 25px;
+}
+.header{
+
+    width: 100%;
+    height: auto;
+    margin:0 auto;
+    text-align: center;
+}
+
+.header img{
+    width: 150px;
+    height: auto;
+    border-radius: 200px;
+
+}
+.content{
+   margin: 10px;
+}
+.footer{
+    text-align: center;
+}
+    
+
